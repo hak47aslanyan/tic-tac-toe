@@ -1,7 +1,6 @@
-![Tic-Tac-Toe Demo](https://prnt.sc/uRBkfAugj4aM)
 
 # Tic-Tac-Toe JavaScript Project
-
+![Screenshot_1](https://github.com/hak47aslanyan/tic-tac-toe/assets/59994441/41c9795d-8206-4ede-826c-e72529e03bec)
 ## Overview
 
 This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The project aims to demonstrate basic web development concepts and serve as a fun, interactive game for users.
