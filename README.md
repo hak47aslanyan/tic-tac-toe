@@ -22,4 +22,4 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-js.git
+   git clone https://github.com/hak47aslanyan/tic-tac-toe
