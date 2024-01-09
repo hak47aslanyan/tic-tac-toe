@@ -1,3 +1,5 @@
+![Tic-Tac-Toe Demo](https://prnt.sc/uRBkfAugj4aM)
+
 # Tic-Tac-Toe JavaScript Project
 
 ## Overview
